@@ -8,14 +8,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Kdo vám, vy dusiči a prznitelé hodnot, kdo vám dal právo povýšit své tupé blbství na obecnou míru a odkazovat k nebytí, co byť jen o píď přesáhlo tu žabomyší mez?!
 
 (Pupíci kývají a vypouštějí mlhu.)
@@ -98,9 +90,7 @@ Jiříkův obal se zvedl, pozdravil a drsně kopl do kamínku. Jiřík bez obal
 
 – nepřijít toho dne rosa náhodou trochu dřív, byl by v tu ránu na popel.
 
-\* \* \*
-
-  
+* * *
 
 Máma už je čeká s bábovkou.
 
@@ -348,9 +338,7 @@ Jaryn celou dobu postával stranou a po chvíli řekl: jen pokračujte, jako by
 
 Máma se za ním dívá a kroutí hlavou: ech, staroch roztržitý – zase si tady zapomněl lucerničku…
 
-\* \* \*
-
-  
+* * *
 
 Má milovaná, krásná, špinavá Magorie!
 
@@ -366,31 +354,23 @@ Honza je k smrti unaven.
 
 Hybš hraje Devátou.
 
-\* \* \*
-
-  
+* * *
 
 A takové jsou u nás dny: první, druhý, třetí, čtvrtý, pátý, šestý, sedmý, osmý, devátý – anebo přesněji: 1., 2., 3., 4., 5., 6., 7., 8., 9., atakdál až do odvolání – a pak zase znovu – anebo pozpátku – nebo úplně jinak: jak je třeba. I lidé jsou u nás různé: dobré i zlé. Ale jsou s námi jen potíže, jenom potíže: my neděláme žádnou radost svým pupíkům. Jsme zamračení, uspěchaní, mrzutí, rozvádíme se, přejídáme a pijem – a jak to pak vypadá, když k nám zabloudí nějaký ten cizinec? Když k nám zabloudí nějaký ten cizinec, nahrneme se kolem něho, chceme pochovat, pohladit, odznáček nebo gumu do trenýrek a aby nás vzal s sebou – copak tohle se dělá? takhle my reprezentujeme své pupíky? své delegované zástupce, krasavce inteligentní, kteří nepodvádějí, nelžou a nekradou?
 
 Hlídat tak neposlušné a nevděčné lidé, to stojí moc a moc peněz. Vlastně všechny.
 
-\* \* \*
-
-  
+* * *
 
 Ale roste u nás hodně melounů.
 
-\* \* \*
-
-  
+* * *
 
 Duše, osamělá jako akce provokatéra, nemá čeho se chytit. A ten čas – ten čas – smrskl se jako koruna; děje proběhly – zvuky odezněly – všechno už bylo. Hemžení prachu ve sloupci světla. Bledničkovité slunce vypadá, že ještě chvíli vydrží –
 
 – ještě vydrží –
 
-\* \* \*
-
-  
+* * *
 
 Mrtvole!
 
@@ -484,23 +464,17 @@ už? – eště ne!
 
 už? – už! – huááááá!!!
 
-\* \* \*
-
-  
+* * *
 
 Hú is hú: _hrobník_
 
-Narodil se v oranžové vestičce a v rodině zavládlo zděšení. Rodiče ho okamžitě reklamovali – pokoušeli se ho vyměnit – prodat nebo darovat – ale marně: hrobníka nikdo nechtěl. Zažalovali ho tedy pro neplnění rodičovských představ, ale soud věc odročil s tím, že dítě musí umět sedět, aby mohlo zasednout na lavici obžalovaných. Tak dlouho ovšem rodina nechtěla čekat, a tak jedné temné noci, aby věc jednotlivce neohrozila zájem celku, vynesli hrobníčka k popelnicím. Okamžitě k nim přilnul. Soucítil s věcmi zavrženými a mezi odpadky postupně začínal tušit souvislost Začátku s Koncem a Velkou Cestu Proměny. To už nejezdil s kárkou, ale na popelářském voze – a potom s čističkou zahraniční výroby s mechanickým ždímáním hadru. A protože byl v oboru jediný, kdo svou práci upřímně miloval, začalo mu brzy hrozit povýšení na šéfa hlavní skládky s vyhlídkou na funkci spalovače. V jeho životě se však udál určitý zlom, o němž toho moc nevíme; jisté je jen, že se ve věku pětatřiceti let vzdal služebního postupu a vrátil se k ruční práci, aby působil jako řadový hrobník.
+_Narodil se v oranžové vestičce a v rodině zavládlo zděšení. Rodiče ho okamžitě reklamovali – pokoušeli se ho vyměnit – prodat nebo darovat – ale marně: hrobníka nikdo nechtěl. Zažalovali ho tedy pro neplnění rodičovských představ, ale soud věc odročil s tím, že dítě musí umět sedět, aby mohlo zasednout na lavici obžalovaných. Tak dlouho ovšem rodina nechtěla čekat, a tak jedné temné noci, aby věc jednotlivce neohrozila zájem celku, vynesli hrobníčka k popelnicím. Okamžitě k nim přilnul. Soucítil s věcmi zavrženými a mezi odpadky postupně začínal tušit souvislost Začátku s Koncem a Velkou Cestu Proměny. To už nejezdil s kárkou, ale na popelářském voze – a potom s čističkou zahraniční výroby s mechanickým ždímáním hadru. A protože byl v oboru jediný, kdo svou práci upřímně miloval, začalo mu brzy hrozit povýšení na šéfa hlavní skládky s vyhlídkou na funkci spalovače. V jeho životě se však udál určitý zlom, o němž toho moc nevíme; jisté je jen, že se ve věku pětatřiceti let vzdal služebního postupu a vrátil se k ruční práci, aby působil jako řadový hrobník._
 
-\* \* \*
-
-  
+* * *
 
 Nebe je plné vody, ale neprší už řadu let.
 
-\* \* \*
-
-  
+* * *
 
 Něco se stane – všichni to víme – ale zatím se neděje nic; voda stojí jako čas a spolu s ním pomalu zahnívá –
 
@@ -522,9 +496,7 @@ musíme čekat, jinak to nejde –
 
 nejedna řeka ve snaze udržet směr se zavrtala zas do země – ale ty nemůžeš zpět k matce do klína, cizinče, i ty musíš čekat, jako my: podívej, máma: složila ruce do zástěry a zůstala tak pět let. A táta: sedává u okna a šeptá: co s náma bude? mámo? co s náma jen bude? A Jaryn: celé dny prostojí nehybně v rákosí, kolébaje se stejně s ním; ti pod vodou posílají zprávu vlněním hladiny, ti na stromech vysílají po větru pachem: jsem tady! tady jsem! ve svý kůži zaživa zazděnej!
 
-\* \* \*
-
-  
+* * *
 
 Jistě: je možné udeřit do stolu, aby se puding zachvěl. Lze také pokleknout uprostřed louže s úpěnlivýma očima: bratře, ty jsi můj bratr: nes mě!
 
@@ -558,9 +530,7 @@ a stále častěji je vidět pěvce, jak sedí na bobku, drží se za ruce a k
 
 někdy prý bývá vidět i na padesát metrů –
 
-\* \* \*
-
-  
+* * *
 
 hledáš cestu ven, cizince? – marně hledáš, stejně nenajdeš – jiní hledali – taky nenašli –
 
@@ -600,9 +570,7 @@ vesmíre – bratře! Já jsem ty a ty jsi já! – totiž – sme voba jedn
 
 Hej! Bože! Pocem! Budem si tykat!
 
-\* \* \*
-
-  
+* * *
 
 měkké blábolivé ráno – dá práci strefit se nohou do podlahy – svět je vláčný – krk vyschlý – duše široká –
 
@@ -632,41 +600,29 @@ a obří útvary ve Skalním městě že jsou naše obydlí z dob, kdy jsme byl
 
 – a ty nás teď okukuješ zvědavýma modrýma očima s věcným zájmem dítěte, kterého se to netýká – – kterému se něco takového přece nemůže nikdy stát – cizinče pošetilý – – –
 
-\* \* \*
-
-  
+* * *
 
 Nebe je plné vody, ale neprší už řadu let.
 
-\* \* \*
-
-  
+* * *
 
 Janinka obchází lány úhoru, říkajíc přísně: á, příroda – jistě – my to podporujeme – – –
 
-\* \* \*
-
-  
+* * *
 
 Hú is hú: _Janinka_
 
-Janinka měla ještě sedm synů: první byl Oktáv, druhý Primus, třetí Jasná, čtvrtý, pátý a šestý Pepík a sedmý Ebženka. Jednoho dne ale nějak zlobili nebo co, a tak je Janinka všechny vyhnala z domu, aby se mohla realizovat prací pro společnost. „Konečně vysvobozena! Konečně volná!“ napíše tato nevšední žena o pět let později ve své autobiografii Já. Zanedlouho vskutku dosáhne velmi pěkných výsledků: stane se ministryní pedoindustriální výroby, z dětských tělíček bude modelovat pestré žvance k oslavě císařského dvora, získá titul Velké Matky a vypěstuje hranatou kedlubnu. Leč nepředbíhejme: Janinka svou velkou cestu teprve začíná: právě opustila rodinu, a její manžel, o němž tu zatím nebyla řeč, protože je dokonale bezvýznamný, si tedy nechal narůst prsa a děti odkojil. Když mu pak došlo mlíko, živil se pampeliškami a potil med. Za jasného počasí, kdy bývají květy na louce dokořán, bylo možno jej zahlédnout, jak vychází na pastvu, ověšen mláďaty, která z něj olizují vonný sekret a hřejí ho do zad. A když někdy v předtuše deště zůstaly květy na louce zavřené, říkávali sousedé: bude pršet, Janinej žere trávu…
+_Janinka měla ještě sedm synů: první byl Oktáv, druhý Primus, třetí Jasná, čtvrtý, pátý a šestý Pepík a sedmý Ebženka. Jednoho dne ale nějak zlobili nebo co, a tak je Janinka všechny vyhnala z domu, aby se mohla realizovat prací pro společnost. „Konečně vysvobozena! Konečně volná!“ napíše tato nevšední žena o pět let později ve své autobiografii Já. Zanedlouho vskutku dosáhne velmi pěkných výsledků: stane se ministryní pedoindustriální výroby, z dětských tělíček bude modelovat pestré žvance k oslavě císařského dvora, získá titul Velké Matky a vypěstuje hranatou kedlubnu. Leč nepředbíhejme: Janinka svou velkou cestu teprve začíná: právě opustila rodinu, a její manžel, o němž tu zatím nebyla řeč, protože je dokonale bezvýznamný, si tedy nechal narůst prsa a děti odkojil. Když mu pak došlo mlíko, živil se pampeliškami a potil med. Za jasného počasí, kdy bývají květy na louce dokořán, bylo možno jej zahlédnout, jak vychází na pastvu, ověšen mláďaty, která z něj olizují vonný sekret a hřejí ho do zad. A když někdy v předtuše deště zůstaly květy na louce zavřené, říkávali sousedé: bude pršet, Janinej žere trávu…_
 
-\* \* \*
-
-  
+* * *
 
 Má bestie trhaně otáčí kuřecí hlavou na tenkém krku. Vyzývavě klape zobanem. Protahuje si vyschlé pařáty: suše v nich praští. Ostré špičaté drápy se pomalu vysouvají – jsou vysunuté – jsou napjaté – ostré špičaté drápy jsou připraveny – chvějí se: dělám mrtvou. Nevidí mě – zklamaně stahuje drápy – zívá – převalila se na bok a chrápe.
-
-  
 
 Příště.
 
 Že prý je každý své bestie strůjcem – jak tohle přijmout a neumřít – – –?
 
-\* \* \*
-
-  
+* * *
 
 Je krásný den. Šedé slunce zalívá šedou krajinu šedým světlem.
 
@@ -692,57 +648,41 @@ však on ten náš hrobník taky neví všechno.
 
 Občas usedne tiše jako prach a jen očima se dívá.
 
-\* \* \*
-
-  
+* * *
 
 Nebe je plné vody, ale neprší.
 
-\* \* \*
-
-  
+* * *
 
 Pevný silný sloup: chci se ho dotknout – není to sloup; je to strunka: krátce mi drnkla pod prsty – zmizela – padám – – – – –
 
-\* \* \*
-
-  
+* * *
 
 Zato Jarynovi se daří, jako by Bůh ani neexistoval: zaoblil se, zrůžověl a chutná mu jíst. Právě prošel složitým přijímacím řízením – a když testy ukázaly, že opravdu v ničem nevyniká, otevřela se před ním skvělá budoucnost: mohl by se stát třeba – pišišvorem – – – a – bude-li se snažit – možná i krajským slaboduchem – anebo – – kdožpak ví? – by to mohl dotáhnout až na samotného pupíka – – –! Jaryn, hýčkán představami, je náhle tolerantní a usmívá se – a usmívaje se krásní…
 
-\* \* \*
-
-  
+* * *
 
 Sytě modré nebe. Nadýchané bílé obláčky. Nízké podvečerní slunce. Zlatý okr zralé pšenice. Před ní na šňůře sepraná modrá košile…
 
 – ano, já vím: když mě sen vábí dopředu a vzpomínky zpátky, kdo tady zůstane, aby se divil?
 
-\* \* \*
-
-  
+* * *
 
 Neprší. Lid reptá. Vojáci dostali přidáno.
 
-\* \* \*
-
-  
+* * *
 
 Kdesevzal-tusevzal – odnikud přišel Bahnoslav Rypec, s sebou stoličku, stoupl si na ni, a že bude řídit.
 
 Říkáme si, alenojo, tak ho nechte, ať je klid – – –
 
-\* \* \*
-
-  
+* * *
 
 Hú is hú: _Rypec Bahnoslav_
 
-Pochází z dělnické rodiny. Otec, místní policajt, mladého Bahníka často bije a záhy posílá do světa na vyučenou. Mladý Bahňa střídá různá zaměstnání: vyučuje lásku k vlasti, prodává erteple a pracuje v odboji. Když udal celé hnutí za pytel vládních brambor, uchytil se trvale u dvora jako vrátný, posléze jako bufetářka a konečně jako první slaboduch a poslední arbiter všeho. On to byl, kdo jako první rozpoznal moudrost a prozíravost Janinčiny pedoindustriální koncepce a zhodnotil ji slovy: „Ona nepřestajným úsilím dosáhla velmi pěkné výsledky. Její činnost avšak vytvořila předpoklady, aby bylo hovořeno o problémech. Ona vytvořila předpoklady, aby byly otevřeně diskutovány. Ona vysoko přesahuje všechno, co bylo v průmyslu výchovy dosaženo.“ Bahnoslav Rypec však proslul i geniálně prostou, dnes již klasickou větou řešící letitý problém autority: „Je třeba přistoupit k zásadní přeměně lidí.“ Tím položil základ rehumanismu a zahájil novou etapu v dějinách lidstva.
+_Pochází z dělnické rodiny. Otec, místní policajt, mladého Bahníka často bije a záhy posílá do světa na vyučenou. Mladý Bahňa střídá různá zaměstnání: vyučuje lásku k vlasti, prodává erteple a pracuje v odboji. Když udal celé hnutí za pytel vládních brambor, uchytil se trvale u dvora jako vrátný, posléze jako bufetářka a konečně jako první slaboduch a poslední arbiter všeho. On to byl, kdo jako první rozpoznal moudrost a prozíravost Janinčiny pedoindustriální koncepce a zhodnotil ji slovy: „Ona nepřestajným úsilím dosáhla velmi pěkné výsledky. Její činnost avšak vytvořila předpoklady, aby bylo hovořeno o problémech. Ona vytvořila předpoklady, aby byly otevřeně diskutovány. Ona vysoko přesahuje všechno, co bylo v průmyslu výchovy dosaženo.“ Bahnoslav Rypec však proslul i geniálně prostou, dnes již klasickou větou řešící letitý problém autority: „Je třeba přistoupit k zásadní přeměně lidí.“ Tím položil základ rehumanismu a zahájil novou etapu v dějinách lidstva._
 
-\* \* \*
-
-  
+* * *
 
 Jak velkolepé je rybí nebe!
 
@@ -756,9 +696,7 @@ nahoře a dole je totéž – já a ne-já je totéž –
 
 vylézt z vody je těžké jako narodit se – – –
 
-\* \* \*
-
-  
+* * *
 
 Svinskej život-svinská práce-svinskej svět!
 
@@ -780,9 +718,7 @@ přijdu domů – rozsvítím – a co dál?
 
 – a ke všemu táta mi oblběl – už se s nim teda nesrovnám jako chlap s chlapem – takovej já mám život – tak lamentuje Jiřík – a netěší ho první jarní pošťák támhle na osice, ani kvítek půlnočníku tady pod sněhem – ani pilný bahnožrout, který, pozřev něco bahna, z výkalů si staví dům – ech, k čemu to všechno, když není pro co žít – –
 
-\* \* \*
-
-  
+* * *
 
 až po letech, až bude hledat ztracenou duši, pak si Jiřík vzpomene na tuhle chvíli –
 
@@ -820,9 +756,7 @@ Ano – mohl by si koupit sprej pro cenný pocit jistoty – mohl by v šeru 
 
 Jiřík jde hluše k domovu.
 
-\* \* \*
-
-  
+* * *
 
 Jiříku!
 
@@ -830,9 +764,7 @@ Co je?
 
 Tvá odpověď je špatná.
 
-\* \* \*
-
-  
+* * *
 
 Vylézt z vody je těžké jako narodit se – narodit se je těžké jako umřít –
 
@@ -840,15 +772,11 @@ máš opustit tělo, zvané já: sotva ses zabydlel – ale byl to jen podnáje
 
 zkuste se tvářit nenuceně a prohodit něco vtipného: jakože do tohodle lokálu už vás nikdy nedostanou nebo tak něco – než uděláte ten krok do tmy –
 
-\* \* \*
-
-  
+* * *
 
 píďalka masožravá žere mouchu zaživa: do půlky užraná moucha se snaží: musí toho dneska ještě tolik stihnout! – tuhle se s prásknutím zavřel květ macechy skalní a uvěznil kozu. Támhle letí truskavec nakrmit mladé – v zobáku slimejše – slimejš řve hrůzou – ale tak už je to na světě zařízeno, milé děti, že jedna potvora žere druhou, milé děti. A na samé špičce potravinové pyramidy, milé děti, sedí císařpán, miláček náš, a sežere nás všechny, milé děti, dobrou noc!
 
-\* \* \*
-
-  
+* * *
 
 – – té únavy kdyby nebylo – dny plynou a zátěž se sčítá –
 
@@ -857,8 +785,6 @@ píďalka masožravá žere mouchu zaživa: do půlky užraná moucha se snaží
 – ale to nic – to bude dobrý – já nejsem žádnej nervóza, abyste si nemyslel, já se umim ovládat – ani se nijak moc neperu – to se na mě klidně zeptejte – Karle – ty mě znáš! – řekni tady panu doktorovi, že sem klidnej – řekni, jak tenkrát – jak voni na mě – a jak já zůstal klidnej! Normálka: pijánko – ne, fakt – to bude dobrý – to chce klid – vitamíny – čerstvej vzduch – nekouřit – nepít – cvičit – a vůli! hlavně vůli! zatnout zuby! umět si poručit! – – a pak se taky poslechnout, co? – hehe – ne-nic-dobrý – – klídek –
 
 CHLAPEČKU NEŠŠŠUSSSTI TIM PAPÍREM!!!
-
-  
 
 – – abyste věděli, tak postavim dům.
 
@@ -944,25 +870,19 @@ Ticho. Tráva se nezachvěla – ani dům se nepohnul – jen za Jiříkem se 
 
 ach, to jsem ráda, že vás tu vidím – vyznáte se tu trochu? – jsem v těchhle zatracených končinách poprvé – a jak to vypadá, úplně jsem se ztratila – věřil byste tomu? – prostě najednou nevím kudy kam – takže jsem vlastně úplně ztracená – není to psina? – že budete drahoušek a vyvedete mě z téhle ošklivé končiny –! – moc – moc vás prosím – – – jsem Lucie. Františka-Lucie-Negroponti. Ale říkejte mi prostě Luci. Anebo Ferko. Luci-Ferko…
 
-\* \* \*
-
-  
+* * *
 
 Jiříku!
 
 Tady neni slyšet!
 
-\* \* \*
-
-  
+* * *
 
 Má bestie už je tu zas: odpočatá, lačná boje, suchá, bdělá, odporná. Znám její tajemství: je-li v klidu, vane celou její vyschlou chřestící bytostí strašlivý vítr: studený a bezútěšný. Fičí tou její prázdnotou, profukuje ji sem a tam – a jí je to nemilé – nepříjemně to svědí. Zkoušela to prý zahánět všelijak: říkají někteří, že snad i prací – nevěřím: výsledná zmrsklina nemůže přinést takovou rozkoš jako krvavý žvanec: teplý – ještě se chvěje – a to dokázala ona! ona sama! a nikdo jí nepomáhal! – soupeří, tedy je! –
 
 – prý byla kdysi lidskou bytostí – nevěřím. Vždycky když ležím na zemi mrtvá, slyším ji spokojeně příst; ale jen chvíli: vzápětí se začíná nudit: zívá, škrábe se na zádech, rýpe se pařátem v zubu, vrtí se, ošívá, vzdychá, čeří vzduch – – ten klid ji mučí: třepí se v okrajích, prosvítá děrami – potřebuje se utkat – potřebuje si upřesnit aspoň kontury – – ale já bývám mrtvá dlouho, moc dlouho… Párkrát do mne rýpne botou a potom odtáhne jinam anebo spí…
 
-\* \* \*
-
-  
+* * *
 
 Celkem je klid.
 
@@ -986,9 +906,7 @@ I kušuj!
 
 A já vám povidám, že to budou právě Janinčiný děti, kdo nás jednou vysvobodí! Neboť stojí psáno v Knize Knih: „Slepý všechny povede a hluchý k tomu bude zpívat – voda poteče do kopce a lípa poroste vzhůru kořenama – matky opustí své děti, neschopní budou týrat schopné a zloději užívat všech poct – ba jeden karabiník lépe placen bude než tucet učitelů – – těžký, přetěžký ten čas tak dlouho potrvá, dokud otec syny neodkojí, které matka opustila, a oni povstanou, bojaři mocní a silní a dosti stateční na to, aby zvolali, že císař je nahý!“
 
-\* \* \*
-
-  
+* * *
 
 – ech, dědci, dědci!
 
@@ -1010,21 +928,17 @@ My ostatní shovívavě naslouchajíce vašemu žvatlání myslíme si svoje �
 
 ani ty nemáš na vybranou, cizinče – tudy prosím – pozor, ať svou překrásnou škorní neuvízneš v blátě!
 
-\* \* \*
-
-  
+* * *
 
 Hú is hú: _Janíci_
 
-lidové označení mláďat, vedených v duchu Janinčiny koncepce; jsou to jedinci skromní, pracovití a snadno ovladatelní díky setrvalému vnitřnímu napětí, které, je-li účinně stimulováno, udržuje jak vysokou pracovní horlivost, tak silnou autoagresivitu, takže se Janíci, masově trpíce tzv. civilizačními chorobami, zřídka dožívají penzijního věku, zbytečně nezatěžujíce státní pokladnu. Pravda je, že se někteří, zejména ti z prvních, experimentálních generací, příliš záhy vrhali ze skal, na umění, drogy či na politiku – což mělo za následek citelný úpadek řemesel. Jak výše řečeno: Janinčina smělá koncepce na své zhodnocení teprve čeká.
+_lidové označení mláďat, vedených v duchu Janinčiny koncepce; jsou to jedinci skromní, pracovití a snadno ovladatelní díky setrvalému vnitřnímu napětí, které, je-li účinně stimulováno, udržuje jak vysokou pracovní horlivost, tak silnou autoagresivitu, takže se Janíci, masově trpíce tzv. civilizačními chorobami, zřídka dožívají penzijního věku, zbytečně nezatěžujíce státní pokladnu. Pravda je, že se někteří, zejména ti z prvních, experimentálních generací, příliš záhy vrhali ze skal, na umění, drogy či na politiku – což mělo za následek citelný úpadek řemesel. Jak výše řečeno: Janinčina smělá koncepce na své zhodnocení teprve čeká._
 
-„dáme za vrata“ – Janinej co chvíli nějakou mlsotu našel za dveřmi, neboť lid jeho i děti tajně miloval.
+_„dáme za vrata“ – Janinej co chvíli nějakou mlsotu našel za dveřmi, neboť lid jeho i děti tajně miloval._
 
-„Pajšl“ – (hovorově) – palác štěstí lidu; mohutná stavba zřejmě kultovního charakteru, nyní sklad pšenice.
+_„Pajšl“ – (hovorově) – palác štěstí lidu; mohutná stavba zřejmě kultovního charakteru, nyní sklad pšenice._
 
-\* \* \*
-
-  
+* * *
 
 Císařpán, svým národům laje a klna, pronesl řeč:
 
@@ -1034,29 +948,21 @@ První písař přijal čestný titul Podivuhodný.
 
 Ze zahraničí: tam je to nadále i tak strašné, že si raději poslechněte trochu hudby: árii vraníka z opery Na stráž! zazpívá pplk. Volráb.
 
-\* \* \*
-
-  
+* * *
 
 Ze zrcadla na mě civí každou chvíli někdo jiný – aspoň že v tom tisku jsou tváře stejné – a že kam sáhnu, najdu kapesník. To dodá člověku jistoty.
 
 Slunce se ztěžka vydrápalo na obzor a při zemi se válí špinavé povětří: smrádek ale teploučko…
 
-\* \* \*
-
-  
+* * *
 
 Má bestie mi jde vstříc: její náruč je plná nožů.
 
-\* \* \*
-
-  
+* * *
 
 Dívám se před sebe: všude je tma.
 
-\* \* \*
-
-  
+* * *
 
 Vtom někde típnul pták
 
@@ -1072,9 +978,7 @@ je to jaro neobyčejné síly, jaké jsme nepamatovali – povětří sviští 
 
 – darmo napomínají staří, že je to všechno jen šalba a mam – že je třeba volně vlající úzkost pevně zakotvit, než země vydá plody – nikdo nevnímá šelest jejich šedivých hlasů – a tak staří, nemajíce se čeho chytit, houfně hynou tohoto jara –
 
-\* \* \*
-
-  
+* * *
 
 a nikdo neoral a nikdo nesil, a tak, až přijde čas sklizně, porostou ze země podivné tlamy – –
 
@@ -1090,29 +994,21 @@ vzduchem poletují palcové mouchy a stařeny v černém usedají na zápraž�
 
 vrátili se i císařští slavíci z dalekých krajin, aby kroužili nad zemí, pestřili pohled na svět a opěvali moudrost císařovu formou tak prostou, že jí i sám císař rozumí – –
 
-\* \* \*
-
-  
+* * *
 
 I s doktorem přihodila se podivná věc: zpočátku jevil zřetelný neklid – přecházel – postával – ošíval se a vrtěl, jako by mu sako nepadlo – pak oblékl pestrou kamizolu, načernil knír – a potom – nedbaje výstražných nařízení – – vyběhl jenom tak, bez kotvy, do nejhustšího jara, které mu ihned – ještě na prahu – vyrazilo pojistky. Smrt? – neznám to slovo! zabiju smrt!! vykřikoval ten popletený stařec – i bývalo pak vidět nebožáka, s věncem květů na pleši, kterak víří v reji svěžích dívek hebké pleti, chichotá se, skotačí a žvatlá, chtěje nenásilně splynout – –
 
-\* \* \*
-
-  
+* * *
 
 – že prý se chystají nějaké změny, či co – aspoň se povídá –
 
 ech – –
 
-\* \* \*
-
-  
+* * *
 
 Mám známost! už nejsem sama! – tedy: ne že bych nebyla, ale bestie už na mě nemůže – totiž: může na mě, ale už to neni taková hrůza. Vlastně: hrůza to je, ale
 
-\* \* \*
-
-  
+* * *
 
 Jsme na prahu nového věku! Zboříme ploty, vyjdeme ze svých samot a nebude hranic a zbraní a nepřátel!
 
@@ -1122,9 +1018,7 @@ Stojí za to žít!
 
 vojáci dostali přidáno
 
-\* \* \*
-
-  
+* * *
 
 Je třeba změnit myšlení lidí, aby ještě lépe vyjadřovalo a odpovídalo našemu úsilí. Naše úsilí. Našeho úsilí. Hyjé. S konečnou platností jsou zrušeny sudé dny; zůstávají v platnosti pouze dny liché; díky tomuto moudrému a prozíravému opatření národní důchod vzrostl, lid omládl a penzijní věk se vzdálil o celou polovinu. Hyjé.
 
@@ -1132,9 +1026,7 @@ Jsou upraveny penze: komu bylo dáno, tomu bude přidáno; komu bylo vzato, tomu
 
 Ať žije císař pán! ať žije císař pán!
 
-\* \* \*
-
-  
+* * *
 
 ááááááá!!!
 
@@ -1142,35 +1034,25 @@ prosím?
 
 – – ale nic –
 
-\* \* \*
-
-  
+* * *
 
 Tonoucí nechť se dostaví k bójce číslo tři, kde stručně, jasně a srozumitelně požádá o pomoc.
 
-\* \* \*
-
-  
+* * *
 
 – – a máme rezervy, ano, rezervy, a mnoho závažných úkolů před sebou: především probudit se. Otevřít oči. Podívat se na sebe do zrcadla. A vyčistit si zuby, aby ten život dostal nějakej smysl. Ale hlavní je probudit se. Ano, toho je nám třeba především. Jenže kde vzít tu chuť.
 
-\* \* \*
-
-  
+* * *
 
 – a protože mladý vlček neposlouchal, ihned v lese zabloudil, utopil se, uhořel, divocí šneci ho rozsápali, spadl do propasti a pošel hlady. Vlk je tvor společenský, milé děti: žije ve smečce. Uznává autoritu. Když smečka uštve kořist, rozestoupí se, aby se vůdce nažral jako první. Žádný z vlků, milé děti, se nedotkne potravy, milé děti, dokud není vůdce syt, milé děti. Protože vlk, milé děti, podobně jako člověk, milé děti, uznává autoritu, milé děti, protože je tvor společenský! Milé děti!! – –
 
 Dobrou noc!
 
-\* \* \*
-
-  
+* * *
 
 Probudit se je stejná pitomost jako vylézt z vody – to je to, co vy cizinci nikdy nepochopíte – – – –
 
-\* \* \*
-
-  
+* * *
 
 ááááááá!!!
 
@@ -1236,15 +1118,11 @@ no už jo – – –
 
 no tak vidíte, chlape jeden, – a pak že se nedomluvíme!
 
-\* \* \*
-
-  
+* * *
 
 Jaryn byl nejprve zděšen výší svého platu, ale pak se rozhodl, že si jej zaslouží: přebývá v kleci; v rohu se křečovitě objímají dvě opičí mláďata: pokus nahradit matku právníkem selhal i tentokrát. A za opicemi, až úplně vzadu, tam někde maj hnízdo: ano – jsou tam: divní ptáci. Hodiny stojí na jedné noze – anebo sedí – anebo klečí – všelijak zapleteni – neříkají vůbec nic a čert ví, co mají za lubem. Jaryn se k nim při krmení už mockrát přinachomýtl – – ale snad že nebyl dost divnej – anebo pro tu šaškovskou čepičku, co se mu čas od času udělá na hlavě – prostě ho vždycky asi poznali, protože v jeho přítomnosti zatím buď mlčí, anebo říkají úplné banality: „je krásně“ – „voda padá do moře a k nebi stoupá mrak“ – „zelenina s rýží je dnes málo vařená“ – – – ty nesmysly ho mají zmást, to je mu jasné, ale Jaryn ví svoje: zatím – kdekoli jsme zvítězili, byl do roka hladomor. A to není samo sebou – – za tím jsou oni: divní ptáci. Jaryn je tu proto, aby je odhalil a usvědčil. Nenápadně se šourá ke skupince vážící rýži. Pohvizduje si – kope do kamínků – spiklenecky pomrkává – některému z nich nabídne kradí cigáro – salám – rum – hambatý obrázek – – – tedy, ovládají se skvěle, ale donekonečna to vydržet nemůžou; teď! – teď mu jeden z nich, sedící na zemi s nohama křížem, s úsměvem pokynul, aby přisedl. Jaryn se orosil štěstím a přinesl si židli.
 
-\* \* \*
-
-  
+* * *
 
 Zatím se jaro ustálilo, zmírnilo a rozlilo se do šíře.
 
@@ -1260,9 +1138,7 @@ a všechny nápisy hlásají, jak milujeme císařepána, miláčka našeho, a 
 
 A zde se konají popravy: tady nám císařpán dává pocítit svou moc – a my – zkoprněle přihlížejíce příšernému konci svých bratří zalykáme se strachy – a milujeme pak císařepána ještě upřímněji – ještě rychleji vybíháme ze svých příbytků a ještě hlasitěji slávu provoláváme, aby už konečně byl klid.
 
-\* \* \*
-
-  
+* * *
 
 Dobrý den, máte mlíko?
 
@@ -1296,17 +1172,13 @@ Prodavač předvádí sochy, kupující si vybírá. Tu si hrobník všiml schý
 
 no dobře – jak chceš – však si ještě popovídáme – ale to už bude u nás! – – –!!
 
-\* \* \*
-
-  
+* * *
 
 Pravda o Janince:
 
 Říkalo se, ano, říkalo, že se Janinka ztratila – ztratila se však daleko dřív, než se o ní předpokládalo: jestli snad právě dohlížela na přeočkování školní mládeže láskou k císařskému dvoru, anebo zrovna špendlila ministrům medaile na bryndáky – to už se dneska neví. Jisté je jen, že ji jednoho dne prostě nenašli doma. Jen na stole ležel uspěchaný text, přerývaný, zajíkavý, koktavý a plný vykřičníků, jako by stůj co stůj chtěl někoho o něčem přesvědčit – jako by na tom moc záleželo – ale nikomu se nepodařilo zjistit, jaká že zpráva je na tom papíře napsána, protože text si nepřál býti čten: písmenka uhýbala, vlnila se, klikatila, rozbíhala, hemžila a tvořila oplzlé obrazce, sotvaže se nad papír někdo naklonil – byly marné i pokusy s fotografií – a tak se vědělo jen, že papír i psací brk patří Janince a Janinka že je fuč. Jen zlatá rákoska po ní zůstala, odznak nejvyšší výkonné moci, a žel nedokončený projekt nového pedokombinátu. Výslechem zrcadla se později zjistilo, že ji – krátce před tím – zaskočeno nepřipravené – odrazilo bez povinného filtru – prostě jak byla: s černým knírem, vytřeštěnýma očima a ostrou hvězdicí vrásek kolem úst. Zrcadlo bylo samozřejmě na místě popraveno, ale nebohou průkopnici už nikdo nikdy nespatřil. Říkalo se potom sice, že to byla tak báječná bytost, že se narodila hned několika lidem najednou – ale tomu nikdo nevěřil. Pak prý ji bylo vídat s podivným člověkem prázdných očí a potměšilých rtů – ale to nebylo podloženo. Nějakou dobu se prý objevovala mezi stařenami strnulých úsměvů; už přesně nevěděly, jak to tenkrát bylo – minulost se jim už dávno vymkla a žila si po svém – ale jistotně jim kdysi kdosi řekl: přijdu! – a potom nepřišel. I ke staré Janince prý kdosi přišel – jestli hrobník? jestli Černý kníže? – i ona se strnule usmívala s koutky úst bezmocně k bradě – přišel k ní, vzal ji kolem ramen a řekl: holčičko! holčičko moje…! ty moje malá…! – a stará Janinka se náhle rozplakala strašlivým pláčem – dlouhým a hořkým a bezmocným – rozpomněla se náhle na všechno, co ve svých funkcích vykonala – – a z té hrůzy se pomátla na duši. Jen rozum jí chuděře zůstal – a ten jí velel, aby se ověsila barevnými střípky a stužkami, papírky, sklíčky a hrozny plechovek – že ji pak bude mít každý rád. Zdobívala se vším, co na zemi našla po každodenní slávě, v upřímné důvěře, že čím pestřejší bude, tím víc lásky v bližních vyvolá. A opravdu: většinou v ní nikdo nepoznal bývalou Velikou Janinku, a tak k ní bývali lidé hodní a laskaví – a tak si Janinka na konci svých dnů přece jen ještě užila trochu lidského tepla na haldách třepetalek, vlajek a plakátů, mávátek, tácků a kelímků od piva…
 
-\* \* \*
-
-  
+* * *
 
 Tady máš to kafe, bobíku, jaká jsem?
 
@@ -1420,9 +1292,7 @@ když pak vyšel, oduševnělý a čistý – neviděl ke svému úžasu tu sk
 
 Já jsem doktor, slečno, řekl ten sebevrah a Jiřík si šel dát studenou sprchu.
 
-\* \* \*
-
-  
+* * *
 
 Jiříku!
 
@@ -1436,19 +1306,13 @@ Jen jdi, chlapče – a nezapomeň, že –
 
 Díky, stařenko!
 
-\* \* \*
-
-  
+* * *
 
 Hú is hú: Jiřík
 
-  
-
 Nojo, húizit?
 
-\* \* \*
-
-  
+* * *
 
 A táta s mámou? – ach ano, táta s mámou: jsou dokonale šťastni a tím pádem naprosto nezajímaví; zatímco se jejich potomstvo obětavě zraňuje, škrtí, zapřísahá a zrazuje, oni dva na to mlčky shlížejí, držíce se za ruce a hledě v oko druhu druh –
 
@@ -1462,9 +1326,7 @@ A táta s mámou? – ach ano, táta s mámou: jsou dokonale šťastni a t�
 
 – anebo – jak říká kvantová teorie: vocaď pocaď.
 
-\* \* \*
-
-  
+* * *
 
 Ochuravěla zrcadla: nejdřív začala každého odrážet zezadu, nohama vzhůru anebo v šaškovské čepičce – a teď hromadně pukají – tiše – jedno po druhém: pink!
 
@@ -1484,9 +1346,7 @@ polekaně vykřikla a choulí se opodál, slabá a bezmocná – bojí se mne
 
 situace se vracejí – shořím v nich jako meteor – –
 
-\* \* \*
-
-  
+* * *
 
 Prý Bůh zemřel! taková blbost! tuhle ho přece viděli, měl už svý upito, hulákal: dejte mi šanci! ještě jednu šanci!
 
@@ -1498,9 +1358,7 @@ Tak jsme Ho pohřbili. Čert ví, kdo to byl, ale měl to moc pěkný. A toho l
 
 Tak to má za sebou. Na nás to čeká. Mladej může – starej musí. Musíme tam všichni. No co – svý leta už měl – a – mezi náma – takovej king to zas nebyl, aby se bez Něj nedalo žít!
 
-\* \* \*
-
-  
+* * *
 
 Stařec, sedící na větvi, táhle kvílí:
 
@@ -1508,9 +1366,7 @@ země málo – vládců mnoho – sluncem měsíc – vzduchem kouř – sl
 
 ech, zmlkni, starče, sic ti nasadím sokolí čepičku a pojedeš na káře rovnou na loď bláznů!
 
-\* \* \*
-
-  
+* * *
 
 řeka vyschla a láska císařepána miláčka našeho je jako ocelový plát –
 
@@ -1520,15 +1376,11 @@ no nic –
 
 NO TAK!!
 
-\* \* \*
-
-  
+* * *
 
 Kolikrát se musím narodit, než vystoupím ze tmy do šera…?
 
-\* \* \*
-
-  
+* * *
 
 – například Bahnoslav Rypec: ovarových hlav má, že bys ho mezi nimi nenašel – a přec šťasten není: vrtí se, vzdychá, je neklidný –
 
@@ -1560,21 +1412,15 @@ Zazvoňte u nich ve čtyři ráno – vsadím se, že přijdou otevřít! –
 
 K čertu s váma, krasavci klidní a voňaví, jemní a chápaví! co vy víte? nic nevíte! jenom se divíte – houpu se na větvi a pouštím na vás své větry! chechtám se, chechtám! chechtám se až k slzám – – –!!
 
-\* \* \*
-
-  
+* * *
 
 Na obrazovku vyplul veliký detail můry: ze všech sil se vydává za suchý list, ale kos do ní přece zobl. Můra zle buší křídly a snaží se kosovi vyhrožovat, co jí jen strach stačí. Kos se na ni přemýšlivě zadíval – a klada si otázku, kde že se bere tolik smělosti ve tvoru tak slabém, můru dojedl. K tomu hraje smyčcový orchestr a školený baryton recituje: „Strategie přežití je prostá: nesmějí nás vidět. Jestliže nás uvidí, nesmějí nás poznat. Jakmile nás poznají, musíme jim nahnat strach.“ – Přepínám na pohádky:
 
 Mladý inženýr obětavě, nezištně a za cenu osobních ztrát překonává pracovní problémy, které by neměl, kdyby vedení bylo schopno vést. Mladý inženýr nakonec situaci sám a přes odpor vedení zvládne: národnímu hospodářství ušetří miliardové hodnoty – přičemž ztratí ženu, děti, přátele a zdraví: Vedení inženýrovi blahopřeje a předává sošku hutníka. Mladý inženýr odchází do invalidního důchodu, vedení trvá. Dobrou noc!
 
-\* \* \*
-
-  
+* * *
 
 Tady motýl! tady motýl! motýl volá zebru! zebro, ozvi se!
-
-  
 
 Tady zebra, tady zebra, to jsi ty, makaku?
 
@@ -1588,21 +1434,15 @@ Motýle, motýle, tady pižmoň severoamerický! Motýle, slyšíš mě? Já se 
 
 Zatímco se zviřátka domlouvají, krasavec v lunchoveru zahodil přes rameno ruční granát, který spadl do helikoptéry pižmoně severoamerického, která spadla přímo pod kola lenochoda australského, který se odkutálel, a rozmačkav makaka medvědího vybuchl pod stromem, na němž přebýval motýl. Platinová blondýna je zachráněna. A to je konec, milí dospělí, hajdy do postýlek, dobrou noc!
 
-\* \* \*
-
-  
+* * *
 
 Do konce našeho vysílání schází ještě plných šedesát minut: prvních padesát osm z nich vyplní přestávka…
 
-\* \* \*
-
-  
+* * *
 
 Už to mám! Každý je své bestie strůjcem – no ano! to já ji vyvolávám z nebytí do existence – já sama ji zhmotňuji ve svých myšlenkách! – a čím víc na ni myslím, tím je ona větší a strašnější – tím větší má nade mnou moc – – a přitom stačí prostě na ni nemyslet – vymazat z vědomí – zrušit – jak je to prosté! prostě na ni nemyslet – – – – – – – – – a sakra…
 
-\* \* \*
-
-  
+* * *
 
 Jako čistý vidí vše čisté, tak Blanokřídlá hořkejma očima vidí hořkej svět:
 
@@ -1666,9 +1506,7 @@ Několik mladých, které jste pochválil, ihned zemřelo vlastní rukou – tu
 
 Podívejte: svůj posudek si píše každý sám. A kdo si k nám cestu nenašel, ten se pak nemůže divit…
 
-\* \* \*
-
-  
+* * *
 
 Jiříku!
 
@@ -1688,9 +1526,7 @@ Jdu správně, stařenko?
 
 I jdi kudy chceš, stejně nedojdeš…
 
-\* \* \*
-
-  
+* * *
 
 Jiřík je u velikém vytržení: písaři překrásných barev a tvarů kolem se rojí, perutěmi navzájem se laskajíce a lahodným hlasem chválíce druh druha, neboť citlivost jejich velmi vysoká jiného slova než obdivu snésti nedovolí. A kdyby snad přece jen nějaká pochybnost vzešla, tu počne dotčený hlasitě skřehotat a prudce perutěmi bít, aby druhové jeho se slétli, jej uchlácholili a opovážlivce ostrými zobany v kusech roznesli, což také zhusta a ochotně činí.
 
@@ -1708,9 +1544,7 @@ Ano – tak to bude.
 
 Jiřík se vzrušeně zavrtěl – a aby zhodnotil čas čekání na řízek, počal opěvat dlažební kostku.
 
-\* \* \*
-
-  
+* * *
 
 Stařenko!
 
@@ -1722,9 +1556,7 @@ Jdeš cestou kouře za štěstím, Jiříku, jdeš s kýblem pomyjí pro čerst
 
 Díky, stařenko!
 
-\* \* \*
-
-  
+* * *
 
 – – – ano – ano, je tu: odhodlaná – v plné síle – ve střehu: v soustředěných kruzích se pomalu přibližuje – šustí, vzdychá, chřestí, kvílí – dokud ji nevnímám, je bezmocná jako každý netvor – dělám, že spím: to ji dráždí. Ale stejně nakonec vzhlédnu a ona mě zabije – stejně to dopadne jako vždycky, tak co – – – přesto doufám, že dneska to budu já, kdo – už vystřídala všechny hluky a bere na sebe lidskou podobu: je nesmrtelná: má čas. Přichází jako přítel a říká větu. Lhostejno jakou: nějakou. Bože – to znám! – řeknu-li cokoliv, budu usvědčena –
 
@@ -1734,19 +1566,15 @@ bere na sebe podobu dítěte – vztahuje ručky, prosí mě o pomoc – pozo
 
 chechtá se mi: nikdy se mě nezbavíš…!!
 
-\* \* \*
+* * *
 
 – – – jsme spolu s bestií na jedné reklamní fotografii: ona je krásná, drží perskou kočku, tiskne k ní tvář a usmívá se přímo do objektivu. Já jsem jí k pasu, držím ji za sukni, tisknu se k ní a vzhlížím k ní vzhůru; ona se tulí k perské kočce, je krásná a usmívá se přímo do objektivu – – –
 
-\* \* \*
-
-  
+* * *
 
 Pacičku posuňte ve směru průvleku táhla proti ozubí posunovače. Podložku vysuňte kolmo. Neposunuje-li, přidržte.
 
-\* \* \*
-
-  
+* * *
 
 Jarní slavnosti trvají:
 
@@ -1768,27 +1596,19 @@ narazíme je na kůl!
 
 ať-žije-císař-pán! ať-žije-císař-pán!
 
-\* \* \*
-
-  
+* * *
 
 Sídelní město je plné: vykulené chichotavé dívenky v nešťastných pletených čepcích, krevnatí mladíci na krátkých nohách, připraveni si to kdykoli s kýmkoli – kdyby něco – co? – no proto! Stárnoucí slečny v tom nejlepším, co doma bylo, s ulpívavým pohledem, jenž praví: já jsem taková ta žabka dovádivá – ale už na tom tolik netrvám… obrýlení bledí mládenci, vytáhlí jako kytka potmě, tatíci, co jim nebude nikdo nic říkat a večer se opijou – a jejich přísné ženy, které už to vzdaly, ale bdí – mnoho, přemnoho nejrozličnějších bytostí nás tu je; obdivuhodně rozmanitých, různých a pestrých – motáme se po trdlišti, plném mámidel, předbíháme se, handrkujem a přeme, neschopni se dohodnout, kdo je první na řadě, neboť jeden každý z nás lační už už si pustit do hlavy kapalné, tekuté, světelné či pevné mámení o překrásném jinde – o skvělém, světlém a čistém, o volném, radostném, báječném jinde, plném báječných bytostí, přátelských, vlídných, hebkých, snědých a pružných: právě se vykoupaly: kapičky vody schnou na zlaté kůži. Bytosti jsou šťastné: smějí se. Vlasy jim vlají. Obdivujeme je. Milujeme je. A vlastně – když se to tak vezme – jsme také tak trochu – ne? – za určitých okolností – tak skoro – jakoby – stejní, ne? – co?
 
-\* \* \*
-
-  
+* * *
 
 Byl jednou jeden boháč a jeden chudák. Ten boháč byl ošklivý, zpocený, tlustý a zlý, lhal, kradl a lakotil, takže ho nikdo neměl rád, a tak on hned onemocněl a umřel. Ten chudák byl krásně opálený z práce na čerstvém vzduchu, byl stále veselý, mladý, pevný a tuhý, měl vždycky pravdu, každý ho měl rád, a tak šťastně žil dlouhá léta, protože obětavá, nezištná práce zušlechťuje, milé děti, dobrou noc!
 
-\* \* \*
-
-  
+* * *
 
 Jaryn s úžasem zjistil, že být bohatý je příjemné…
 
-\* \* \*
-
-  
+* * *
 
 Pepíčku, řekni: maminko, prosímtě, nezlob se na mě, já už to ne­udělám!
 
@@ -1814,15 +1634,11 @@ Výborně, pane, výborně! takový výkon jsme tu ještě neměli! – už sta
 
 Špinavý chlapec se pokouší pískat na prsty: moc mu to nejde – otírá si ruku do kalhot a staví se na špičky, aby líp viděl: už vedou dárce: řinčí medailemi: daroval už ledvinu, oko, krev i kostní dřeň – teď se chystá darovat srdce, ale to víte, nechce se mu; někdo mu mává, někdo se zvědavě vyptává, někdo se právě zabývá svými nehty, jiný začíná překotně jíst, další mu dávají peníze, dary a vzkazy pro mrtvé příbuzné… vyděšeně těká očima… GONG.
 
-\* \* \*
-
-  
+* * *
 
 Jaryn si zaplatil budovu městských lázní: prochází se kolem bazénu krokem volným a sbor dvanácti panen pěje: ó jaký páv! jaký to krásný páv!
 
-\* \* \*
-
-  
+* * *
 
 Máte boty? – tak mi jedny dejte. A tepláky máte? tak troje. Vidíš, holka, nakoupilas – a k čemu ti to je: neni ti hodina hodinou, rodina rodinou a zem zemí; škrábeš si kůži, trháš si vlasy a Jiříka neni.
 
@@ -1856,9 +1672,7 @@ hoří všechny mé slupky, zvané Já –
 
 hoří to všechno na popel – –
 
-\* \* \*
-
-  
+* * *
 
 Je třeba nastoupit cestu:
 
@@ -1872,13 +1686,9 @@ tam někde prý bydlí stařec, co všechno ví. Tam někde. Určitě. Anebo jin
 
 Blanokřídlá, vyprázdněná jako džbán, schopný až teď přijmout nový obsah, se dívá užasle kolem: bleděmodré záclonky. Vyšívaný ubrus. Útěšný vítr v zahradě. A malí Jiříci: z matrací si stavějí hrad. A na kanapi sedí stařenka, drží ji za ruku a říká: tak co, děvenko, už je to lepší?
 
-\* \* \*
-
-  
+* * *
 
 Že jsem hluchá k dechu skály, nazývám ji mrtvou –
-
-  
 
 pro ni je zase můj hrdý věk zlomkem bzíknutí píšťalky na psy.
 
@@ -1886,41 +1696,29 @@ A tak je to se vším.
 
 Můžu si na stěnu promítat záznam rostoucí sekvoje, než si vzpomene Veliký Kratič, ale – jak říká Jura Jiřinský: z plísní houbovku neuvaříš…
 
-\* \* \*
-
-  
+* * *
 
 Přituhlo. Zlí jazykové tvrdí, že každý má počasí, jaké si zaslouží, ale není to pravda: kdyby to byla pravda, pršelo by kamení.
 
 Velebím svěžest loňské trávy, zobu semenec z flašky a vleču svou mrtvolu k prameni: snažím se, snažím: jako si ryba musí zasloužit vodu a tráva zem, jako si musí zasloužit prostor ptactvo nebeské –
 
-\* \* \*
-
-  
+* * *
 
 bestie si cídí pařáty a ostříhané drápy rovná k okraji stolu: pořádek musí být.
 
-\* \* \*
-
-  
+* * *
 
 Prší kamení.
 
-\* \* \*
-
-  
+* * *
 
 Reptaví neposluchové jsou naráženi na kůl – osvědčilo se to víc než zdlouhavá práce v masách –
 
-\* \* \*
-
-  
+* * *
 
 Prší kamení: ale jen trošku – maloučko. Vlastně jen nepatrně ve srovnání s tím, co se děje v zahraničí. Popravdě řečeno, půda už to dávno potřebovala.
 
-\* \* \*
-
-  
+* * *
 
 Odhalit divné ptáky se Jarynovi nepodařilo: ten usměvavý mu řekl: oceán pravdy máš před sebou. Jenomže už bylo šero, a tak Jaryn přesně nevěděl, kterýmže směrem to jako má být – a nazítří ho odvolali. Smůla.
 
@@ -1934,9 +1732,7 @@ Jako rodné vybráno jeho péčí městečko, donedávna ležící na nepřátel
 
 Ano: Jaryn touží stanout po boku Bahnoslava Rypce, jehož nezničitelnost bude zárukou klidu i Jarynovi. Jaryn tak nějak tuší, že Rypec a on – oni dva že prostě – – ech, silné city se slovy těžko vyjadřují – – prostě že patří k sobě, no – – a už je to venku. Jaryn znachověl: ano: po Rypcově boku se pročervená k nejvyšším metám…
 
-\* \* \*
-
-  
+* * *
 
 V současném moderním myšlení rozeznáváme tři základní směry, totiž: šejdrem, hyčmo a šrekom:
 
@@ -1948,9 +1744,7 @@ synteze: kdo chybuje, je učený, přijde do nebe a nespadne.
 
 (než profesor stačil dokončit, sezobl ho dlask)
 
-\* \* \*
-
-  
+* * *
 
 Jasný měsíc: přes něj cár mraků. Vítr. Silný vítr: ohýbá rákosí ke zčeřelé hladině rybníka. Veliký Bukač stojí na jedné noze bez pohnutí.
 
@@ -1960,9 +1754,7 @@ Kvílivé vrznutí dveří – klapot podpatků – zadunění kbelíku o pop
 
 Nic jsem ti nezamlčel: všechno máš před sebou.
 
-\* \* \*
-
-  
+* * *
 
 Má bestie čeká na příhodnou chvíli, aby mi přeťala krční tepnu. Pojď sem, zrůdo, ať tě obejmu!
 
@@ -1976,9 +1768,7 @@ k zemi padá hrst popela.
 
 A z tebe, můj kamenný anděli, z tebe bude štěrk na cestu k latríně.
 
-\* \* \*
-
-  
+* * *
 
 Ach, lidi, lidi pomozte! Já hledám svého Jiříka, báječného chlapíka, který mne opustil! Dům jsme spolu postavili, osm mladých vy­vedli – a najednou, kam se jen podívám, tam on není!
 
@@ -2048,15 +1838,11 @@ A tak Blanokřídlá pochopila, že jí pomůže jedině hrobník. Dbalá babin
 
 A vydala se za hrobníkem.
 
-\* \* \*
-
-  
+* * *
 
 Udělala jsem bestii překrásný funus – spousta kytek, spousta slz a vzpomínky jen v dobrém – – – škoda že se toho chuděra nedožila…
 
-\* \* \*
-
-  
+* * *
 
 Je poledne. A jako vždy o polednách hlaholí hlasy hlásných: každý všeho nech a chval císařepána! Chval každý Velkého Hmotu, jehož je císařpán prvním vtělením!
 
@@ -2082,9 +1868,7 @@ Já jsem Robin Kynedril, řekl třetí sup a blbě se zachechtal. Di do háje, 
 
 – – – vtom se všechno kolem rozsvítilo – a hrobník – vlastně rozpínající se zrnitý mrak – stoupá užasle vzhůru – jako veliké _aha?_ – – – _nojo_ – – – _vlastně_ – – – ?? – – a honem si to chce napsat – a v tu chvíli to odjelo – je zas pod mrakem a on leží na zemi, vazký a těžký a nejapně se usmívá…
 
-\* \* \*
-
-  
+* * *
 
 Bahnoslav Rypec, obklopen svými ženami, neboť z mužů má strach, zatím nepokrytě teskní:
 
@@ -2096,9 +1880,7 @@ Bahnoslav prostě – a to si přiznejme – není šťasten: je obklopen uš
 
 Ano: Bahňa je sentimentální – a kopaje kolem sebe, pláče.
 
-\* \* \*
-
-  
+* * *
 
 Tou dobou byl při hledání sklepení pod rodným domkem Rypcovým překopnut zapomenutý vodovod, takže Bahnice nakonec vznikla –
 
@@ -2106,9 +1888,7 @@ jenomže Jaryn zrovna tou dobou zakolísal ve víře ve vydařenou Rypcovu minul
 
 Jenomže rozlítostněný Bahňa, kterému se to všechno nějak popletlo, se zrovna tou dobou vydal do ulic s dobře míněnou cedulí KORYTA SI ROZVRACET NEDÁME, načež byl dobře zbit dobře placeným šohajíkem z podhůří, který, jako kdysi Bahňa, dobyl sídelní město osvědčenými prostředky. Poté byl Bahnoslav spolu s ženami, handlujícími obnošené šatstvo, smeten vodním dělem – a tak zrovna ve chvíli, kdy bylo v Rypcově nad Bahnicí vše nachystáno k uvítání slavného rodáka, odvážel téhož zelený anton.
 
-\* \* \*
-
-  
+* * *
 
 Voda za přehradní hrází se zdá být nevinná –
 
@@ -2122,9 +1902,7 @@ strhané struny zvuk, zborcené harfy tón –
 
 my máme tradici, o jaké se ti nesnilo, cizinče volný a bezbřehý – – –
 
-\* \* \*
-
-  
+* * *
 
 Ó hrobníče! Ty, jenž znáš tajemství života a smrti, ty který nešťastným mrtvým pomáháš dojít klidu, pročpak bys nešťastným živým nepomohl? Vrať mi mého muže, který mne opustil!
 
@@ -2184,9 +1962,7 @@ Ukaž mi oči: vidíš jenom svůj žal – hledáš svůj žal a najdeš svů
 
 někdy tou dobou začal Bahnoslav Rypec v kleci povykovat, ať ho pustí ven, ať ho ihned, ale neprodleně propustí, neboť je třeba nanosit vodu do kuchyně. Bachař znejistěl, a protože ho stran hesel nijak konkrétně neinformovali, šel se zeptat šéfa.
 
-\* \* \*
-
-  
+* * *
 
 PRŠÍ!!
 
@@ -2196,21 +1972,15 @@ Orosená celerová nať. Bitka trsy trávy: pfíííííí-žuch!
 
 e-e-e-e-e-e-e! dž-dž-dž! kch! kch! Bláto stříká do všech stran.
 
-\* \* \*
-
-  
+* * *
 
 Císař vede válku. Zatím se neví s kým, ale vyhrajem. Hlavně aby bylo dost nepřátel.
 
-\* \* \*
-
-  
+* * *
 
 Orosená louka – slunce vychází. Jasný soprán: ranní hlas. K večeru se stíny dlouží. Dítě jde za ruku domů a říká syrovým hláskem: my máme v našem klálovství plno klásy, žejo? Mniši ve skalním městě obkreslují svatá slova: STOP – skládka – Hlavní nádraží. Je třeba udělat sto poklon. Ptáci se slétli k večerním zpěvu: trrrrrr! Tik – tik – tik! trrrr-pijú! trrrr-pijú! cak-cak-cak-cak –
 
-\* \* \*
-
-  
+* * *
 
 Blanokřídlá svůj směr zná, a tak běží napříč městem:
 
@@ -2230,9 +2000,7 @@ Vybíháme ze svých příbytků, co figurky se svými radostmi a starostmi, c�
 
 a tak slavíme dál, třebaže víme, že kámen patřičnou silou vržený, k zemi nedopadne.
 
-\* \* \*
-
-  
+* * *
 
 Jaryn stoupá vzhůru: bylo mu svěřeno vedení Svazu žen: má krásný kostýmek ze země hraček a mladého milence kvůli utajení: má truhlici plnou šperků, k holiči lítá helikoptérou, natřásá se, voní a vědecky pracuje:
 
@@ -2248,9 +2016,7 @@ Za svůj epochální objev byl Jaryn obtěžkán mnoha metály. Sám císař mu 
 
 Jarynovi se přihodil pracovní úraz: tak oddaně střežil věrouku – až si ji jednou omylem přečetl – a od té chvíle je pro dvůr nepoužitelný. Málo scházelo, a byl pro výstrahu popraven – ale pak usoudili, že si takovou reklamu nezaslouží, a nechali ho dožít. Dnes je ho vídat v laciných výčepech, jak kroutí hlavou a říká náhodným hostům: ale dyť přece… chápete to…? a rozkládá, vykládá, dokazuje, zdůvodňuje, usuzuje a radí, vycházejí z něj chuchvalce slov, pospojovaných ve věty, věty v teorie, teorie v principy, zákony, systémy a řády – už to není Jaryn, kdo mluví – to ŽVÁST sám jeví se jeho prostřednictvím; košatí se kolem něj jako křovisko, mohutní, houstne a bují, staví se mezi něj a svět jako filtr, jako zeď, jako val – Jaryn nevidí-neslyší: vyvozuje z předchozího – zdůrazňuje, předesílá, chválí-haní-vytyčuje – – vycházejí z něj chuchvalce zásad a názorů, které na vzduchu okamžitě tuhnou – Jaryn postupně ztrácí zrak i sluch, spodní čelist mu zbytněla a pod ní už kypí slibný ovárek – čelo u vědomí vlastní zbytečnosti kleslo a couvlo dozadu – a jak slábne Jarynův kontakt s živým světem i jeho čas se zrychlil, jako letí čas spících, a tak Jaryn, zakrátko stoletý, slepý a hluchý, vyschl a vtělil se ve svoji žvanivou skořápku: žvanivý stařec –
 
-\* \* \*
-
-  
+* * *
 
 Vyhráli jsme!
 
@@ -2258,15 +2024,11 @@ Císařpán promluvil k parlamentáři jeho rodnou řečí:
 
 Jak vy k my – tak my k vy: když vy k my nic – ze já mluví dobrý vůl! – a vysmrkal se do podolku. Parlamentář, přišedší diktovat podmínky, podepsal kapitulaci a bylo.
 
-\* \* \*
-
-  
+* * *
 
 Blanokřídlá, před očima nic než svého Jiříka, báječného chlapíka, běží, běží vpřed: nevadí jí trní, nevadí jí hloží, nevadí jí divocí paznechti: a že je jich čím dál víc: pletou se do cesty, volají, slibují, vyhrožují a loudí o přízeň – běda však, zoufalče, jestli uvěříš! – jestli hned nezvoláš FUJ FUJ HNUSOTO! – skočí ti paznecht zezadu na krk a bude tě dusit a škrtit a užírat, dokud na sebe nevezmeš jeho podobu: paznechta divokýho, bezduše ohavnýho a smrtí smrdutýho, s duší zaživa užranou – dokud nebudeš jako on: jemu v zoufalství bratrem –
 
-\* \* \*
-
-  
+* * *
 
 Blanokřídlá nedbá a běží, běží vpřed –
 
@@ -2296,9 +2058,7 @@ hmmm – tak tohle je tedy ta příroda, co se o ní pořád tak mluví – 
 
 A Jiřík – no ano, je to on! – Jiřík najednou vidí, že všechno je na svém místě: strom – babička na bedýnce od brambor, cesta mezi poli i Blanokřídlá, která ho po celou dobu mlčky následovala a teď šťastná, že ho má, stojí tiše stranou v očekávání jeho rozkazů…
 
-\* \* \*
-
-  
+* * *
 
 Slepá bábo, kam tě vedu?
 
@@ -2394,9 +2154,7 @@ a obal hrobníkův nastoupil cestu všeho těla.
 
 Polední přestávka se pomalu chýlí ke konci. Přežraní supi ale spí dál, třebaže právě dorazil Bahnoslav Rypec osobně, aby se chopil vědra a nanosil vodu do kuchyně.
 
-\* \* \*
-
-  
+* * *
 
 Joj, krásná je Magorie, když slunce zapadá –
 
@@ -2406,4 +2164,4 @@ já tady končím, cizinče – dál musíš sám – já se dál bojím – j
 
 – neboj, mami, já za tebou přijdu – už se mi taky roky chýlej – pro mě už je taky místo v bárce s lampiónama – buď sbohem, cizinče – jestli zas někdy přijdeš, přivez mi gumu do trenýrek a nějaký hřebíky – najdeš mě vždycky tady na pobřeží – čekám tu na svoji loď – na svou bárku bez vesel – neptej se nikoho, každej ti řekne jen „pleju len“ – nediv se – taky chce žít – jdi pořád rovně – až za ty dráty – to pro tebe neplatí – jdi pořád pryč – tudy ne: tam je nezdravo: těla jenom tak přihrnutý hlínou zarůstaj trávou a supi jsou už úplně bez disciplíny – je tam všude mokřina: nějakej paznecht tam po léta nosí vodu do rozvalin bývalý katovny – nikdo se k němu nehlásí – nikomu nepatří – nikdo ho nechce, a tak se nenajde, kdo by ho objal a řekl: buď se mnou, tvá bolest je má – buď sbohem, cizinče, pozdravuj tam u vás za vodou – vyřiď, že se snažíme – že se máme dobře – že nám nic neschází – máme všeho dosytosti dudlajdá a jsme šťastni, ano, šťastni a nikdy jinak – koukej ryba, jak je blbá, hází sebou, rozkrájená na kusy, neví, že je mrtvá, neví, co je smrt, sbohem, příteli, má bárka připlouvá, jsou na ní fangle a soudek rumu a v kýlu díra velikosti dýně ve všech oblastech vnitřní politiky három fárom tydlidom na to ser vole hlavně že je mír – maminko!
 
-_Květen 1989_
+> _Květen 1989_
