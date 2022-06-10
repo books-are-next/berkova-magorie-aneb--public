@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Magorie aneb Příběh velké lásky](https://search.mlp.cz/cz/titul/magorie-aneb-pribeh-velke-lasky/34230/#book-content) tak, jak bylo vydáno nakladatelstvím Horizont v Praze v roce 1991. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -14,4 +16,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 4. 6. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
