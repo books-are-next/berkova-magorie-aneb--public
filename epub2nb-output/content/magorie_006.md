@@ -2,11 +2,7 @@
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Kdo vám, vy dusiči a prznitelé hodnot, kdo vám dal právo povýšit své tupé blbství na obecnou míru a odkazovat k nebytí, co byť jen o píď přesáhlo tu žabomyší mez?!
 
@@ -582,6 +578,10 @@ lásko, bože lásko –
 
 Ty jenom kejváš pěstěnou hlavinkou, tváříš se účastně a tvé modré oči říkají: chápu – úplně tě chápu – jak ses to naučil tam u vás v kursu –
 
+</section>
+
+<section>
+
 ty nevíš, že co jste vy, byli jsme i my –
 
 a co jsme my, budete i vy –
@@ -784,7 +784,15 @@ píďalka masožravá žere mouchu zaživa: do půlky užraná moucha se snaží
 
 – ale to nic – to bude dobrý – já nejsem žádnej nervóza, abyste si nemyslel, já se umim ovládat – ani se nijak moc neperu – to se na mě klidně zeptejte – Karle – ty mě znáš! – řekni tady panu doktorovi, že sem klidnej – řekni, jak tenkrát – jak voni na mě – a jak já zůstal klidnej! Normálka: pijánko – ne, fakt – to bude dobrý – to chce klid – vitamíny – čerstvej vzduch – nekouřit – nepít – cvičit – a vůli! hlavně vůli! zatnout zuby! umět si poručit! – – a pak se taky poslechnout, co? – hehe – ne-nic-dobrý – – klídek –
 
+</section>
+
+<section>
+
 CHLAPEČKU NEŠŠŠUSSSTI TIM PAPÍREM!!!
+
+</section>
+
+<section>
 
 – – abyste věděli, tak postavim dům.
 
@@ -810,6 +818,10 @@ Tak kde ste kdo, sakra, to musim vodřít všecko sám?! Dům stojí: pevný, ab
 
 nebo něco v tom smyslu – je unavený a cítí se podveden.
 
+</section>
+
+<section>
+
 Blanokřídlá sedí proti němu, obklopena malými Jiříky, a aby nerušila, modlí se dovnitř:
 
 Ó Velký Hmoto! Vrať mi milého, který mne opouští! Já toužím složit svou hlavu do jeho dlaní a on se ode mne odvrací –
@@ -819,6 +831,10 @@ Blanokřídlá sedí proti němu, obklopena malými Jiříky, a aby nerušila, 
 Pomoz, ó Velký! má duše vyje a mé tělo hoří – budí se ve mně zvíře – to zvíře chce jeho krev a já se bojím!
 
 Pomoz, ó mocný! Udělej, ať na mne vlídně pohlédne, ať mě pochválí, obejme a nazve svou ženou, miláček můj!
+
+</section>
+
+<section>
 
 – a Jiřík vstal – a že už nemá hlad – a že už má dneska všeho dost – a že se de eště nadejchat – ať na něj nečekaj – ať dou klidně spát –
 
@@ -2146,11 +2162,19 @@ Kočky jsou za kamny, vylizujou kuthany!
 
 (Dítě se musí rozhodnout, s kým půjde, jestli s čertem nebo andělem – obě strany se potom přetahují…)
 
+</section>
+
+<section>
+
 Ale tak jo, tak teda jo, vydechl hrobník a uvolnil duši –
 
 a duše jeho vzlétla ke zlaté bráně, aby šla s čertem nebo s andělem podle skutků svých –
 
 a obal hrobníkův nastoupil cestu všeho těla.
+
+</section>
+
+<section>
 
 Polední přestávka se pomalu chýlí ke konci. Přežraní supi ale spí dál, třebaže právě dorazil Bahnoslav Rypec osobně, aby se chopil vědra a nanosil vodu do kuchyně.
 
@@ -2164,4 +2188,10 @@ já tady končím, cizinče – dál musíš sám – já se dál bojím – j
 
 – neboj, mami, já za tebou přijdu – už se mi taky roky chýlej – pro mě už je taky místo v bárce s lampiónama – buď sbohem, cizinče – jestli zas někdy přijdeš, přivez mi gumu do trenýrek a nějaký hřebíky – najdeš mě vždycky tady na pobřeží – čekám tu na svoji loď – na svou bárku bez vesel – neptej se nikoho, každej ti řekne jen „pleju len“ – nediv se – taky chce žít – jdi pořád rovně – až za ty dráty – to pro tebe neplatí – jdi pořád pryč – tudy ne: tam je nezdravo: těla jenom tak přihrnutý hlínou zarůstaj trávou a supi jsou už úplně bez disciplíny – je tam všude mokřina: nějakej paznecht tam po léta nosí vodu do rozvalin bývalý katovny – nikdo se k němu nehlásí – nikomu nepatří – nikdo ho nechce, a tak se nenajde, kdo by ho objal a řekl: buď se mnou, tvá bolest je má – buď sbohem, cizinče, pozdravuj tam u vás za vodou – vyřiď, že se snažíme – že se máme dobře – že nám nic neschází – máme všeho dosytosti dudlajdá a jsme šťastni, ano, šťastni a nikdy jinak – koukej ryba, jak je blbá, hází sebou, rozkrájená na kusy, neví, že je mrtvá, neví, co je smrt, sbohem, příteli, má bárka připlouvá, jsou na ní fangle a soudek rumu a v kýlu díra velikosti dýně ve všech oblastech vnitřní politiky három fárom tydlidom na to ser vole hlavně že je mír – maminko!
 
+</section>
+
+<section>
+
 > _Květen 1989_
+
+</section>
