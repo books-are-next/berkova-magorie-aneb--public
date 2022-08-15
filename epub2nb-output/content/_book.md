@@ -24,6 +24,9 @@ tocBase:
       - link: magorie_005.html
         title: Pojď, příteli ...
         hiddenTitle: false
+      - link: magorie_006.html
+        title: Kdo vám, vy dusiči a prznitelé hodnot ...
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

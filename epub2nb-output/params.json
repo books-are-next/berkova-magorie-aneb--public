@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pojď, příteli ..."
+            "title": "Pojď, příteli ...",
+            "children": []
           },
           {
             "filename": "magorie_006.md",
@@ -109,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kdo vám, vy dusiči a prznitelé hodnot ..."
           },
           {
             "filename": "magorie_007.md",
@@ -242,6 +243,6 @@
       "user": "books-are-next",
       "repo": "berkova-magorie-aneb-pribeh-velke-lasky"
     },
-    "generatedAt": 1660562210148
+    "generatedAt": 1660562563767
   }
 }

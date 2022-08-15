@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-magorie-aneb-pribeh-velke-lasky-d9308cc",
-  "revision": "d9308cc",
+  "identifier": "berkova-magorie-aneb-pribeh-velke-lasky-01cf930",
+  "revision": "01cf930",
   "readingOrder": [
     "promo.html",
     "magorie_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 11:18:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660562298155
+    "date": "Mon Aug 15 2022 11:24:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660562671131
   },
   "documents": [
     {
