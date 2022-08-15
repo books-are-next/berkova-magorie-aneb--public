@@ -2,14 +2,16 @@
   "params": {
     "metadata": {
       "languageCode": "cs",
-      "title": "Magorie aneb Příběh velké lásky",
+      "title": "Magorie",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Alexandra Berková",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-05-31T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-1659-2",
+      "subtitle": "aneb Příběh velké lásky"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -44,7 +46,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -56,7 +58,7 @@
             "id": 1,
             "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -68,7 +70,7 @@
             "id": 2,
             "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -80,7 +82,7 @@
             "id": 3,
             "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -109,8 +111,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kdo vám, vy dusiči a prznitelé hodnot ..."
+            "title": "Kdo vám, vy dusiči a prznitelé hodnot ...",
+            "children": []
           },
           {
             "filename": "magorie_007.md",
@@ -118,7 +120,7 @@
             "id": 6,
             "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -243,6 +245,6 @@
       "user": "books-are-next",
       "repo": "berkova-magorie-aneb-pribeh-velke-lasky"
     },
-    "generatedAt": 1660562563767
+    "generatedAt": 1660604731943
   }
 }
