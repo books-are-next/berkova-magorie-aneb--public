@@ -1,0 +1,109 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Magorie aneb Příběh velké lásky",
+  "author": "Alexandra Berková",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "berkova-magorie-aneb-pribeh-velke-lasky-d9308cc",
+  "revision": "d9308cc",
+  "readingOrder": [
+    "promo.html",
+    "magorie_005.html",
+    "magorie_006.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Aug 15 2022 11:18:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660562298155
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "magorie_005.html",
+      "toc": []
+    },
+    {
+      "title": "Magorie aneb Příběh velké lásky",
+      "file": "magorie_005.html",
+      "words": 39,
+      "chars": 196,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "magorie_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorie aneb Příběh velké lásky",
+      "file": "magorie_006.html",
+      "words": 21248,
+      "chars": 114474,
+      "ideas": 966,
+      "role": "chapter",
+      "order": 2,
+      "prev": "magorie_005.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 139,
+      "chars": 908,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "magorie_006.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 21435,
+      "chars": 115637,
+      "ideas": 988
+    },
+    "chapters": {
+      "words": 21287,
+      "chars": 114670,
+      "ideas": 968
+    }
+  }
+}
