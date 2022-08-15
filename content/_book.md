@@ -5,7 +5,7 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
-  title: Magorie aneb Příběh velké lásky
+  title: Magorie
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Alexandra Berková
   publisher: Městská knihovna v Praze
@@ -13,6 +13,8 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-1659-2
+  subtitle: aneb Příběh velké lásky
 readingOrder:
   - promo.html
   - magorie_005.html

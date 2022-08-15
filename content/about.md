@@ -8,6 +8,7 @@ Magorie**
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
+ISBN 978-80-274-1659-2 (webová kniha)  
 V MKP 2. elektronické vydání z 15. 8. 2022.
 
 ***
