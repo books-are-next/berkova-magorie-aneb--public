@@ -9,8 +9,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-magorie-4a21566",
-  "revision": "4a21566",
+  "identifier": "berkova-magorie-c4f524d",
+  "revision": "c4f524d",
   "readingOrder": [
     "promo.html",
     "magorie_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:18:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486293731
+    "date": "Sat Oct 01 2022 15:47:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639277981
   },
   "documents": [
     {
