@@ -9,8 +9,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-magorie-c4f524d",
-  "revision": "c4f524d",
+  "identifier": "berkova-magorie-b5380ad",
+  "revision": "b5380ad",
   "readingOrder": [
     "promo.html",
     "magorie_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:47:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639277981
+    "date": "Tue Oct 04 2022 16:35:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901316509
   },
   "documents": [
     {
@@ -77,9 +77,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 143,
+      "words": 141,
       "chars": 945,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "magorie_006.html",
@@ -97,9 +97,9 @@
   ],
   "totals": {
     "all": {
-      "words": 21435,
+      "words": 21433,
       "chars": 115650,
-      "ideas": 989
+      "ideas": 987
     },
     "chapters": {
       "words": 21287,
