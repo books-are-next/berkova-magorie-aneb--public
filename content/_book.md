@@ -13,7 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
-  isbn: 978-80-274-1659-2
+  isbn: 978-80-274-2826-7
   subtitle: aneb Příběh velké lásky
 readingOrder:
   - promo.html
